@@ -13,15 +13,15 @@
 	<table width="400" bprder="1" bordercolor="gray">
 		<tr height="40">
 			<td width="150" align="center">아이디</td>
-			<td width="250"> <input type="password" name="password"></td>
+			<td width="250"> <input type="text" name="id"></td>
 		</tr>
 		<tr height="40">
 			<td width="150" align="center">패스워드</td>
-			<td width="250"> <input type="email" name="email"></td>
+			<td width="250"> <input type="password" name="password"></td>
 		</tr>
 		<tr height="40">
 			<td width="150" align="center">이메일</td>
-			<td width="250"> <input type="text" name="id"></td>
+			<td width="250"> <input type="email" name="email"></td>
 		</tr>
 		<tr height="40">
 			<td width="150" align="center">전화</td>
